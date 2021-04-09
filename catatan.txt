@@ -1,0 +1,1 @@
+yarn add express-promise-router //untuk menghindari try catch di controller
